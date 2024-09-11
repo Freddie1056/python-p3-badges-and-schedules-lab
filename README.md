@@ -125,3 +125,4 @@ assignments in order to `print` out each individual assignment.
 [data-structures]: https://docs.python.org/3/tutorial/datastructures.html
 [for]: https://www.w3schools.com/python/python_for_loops.asp
 [list-comprehension]: https://www.w3schools.com/python/python_lists_comprehension.asp
+# python-p3-badges-and-schedules-lab
